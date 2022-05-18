@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Kumbh+Sans&family=Montserrat:wght@100&family=Poppins:wght@200&family=Roboto+Mono:wght@100&family=Source+Serif+4&family=Space+Mono&display=swap');
+
+body {
+  background-color: #1A4364;
+  margin: 0;
+  text-align: center;
+  font-family: 'Poppins', serif;
+}
+
+header {
+  padding-top:20px;
+}
+h1 {
+  font-size: 40px;
+  font-family: 'Sacramento', cursive;
+  color: #3a00c1;
+  top: 5px;
+
+}
+
+h1:hover {
+  transform: scale(1.03);
+}
+
+a {
+  color: #ac27a1;
+  font-family: 'Kumbh Sans', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #02ffff;
+}
